@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FrostFight Support
+    url: https://frostfight.com/support?do=createnew&cat=3
+    about: Any Support request please here or per mail support@frostfight.com
+  - name: FrostFight Security Issues
+    url: https://security.frostfight.com/launcher/new
+    about: Please report security vulnerabilities here.
+    
